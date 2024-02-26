@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "bekhan.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "nanoosh.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
